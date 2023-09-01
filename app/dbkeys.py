@@ -1,0 +1,10 @@
+# dbPilotageKey = "Perf-RSE-SIFCA"
+dbPilotageKey = "Perf-ENERGIE"
+
+userCollection = "User"
+accesPilotageCollection = ""
+indicateurCollection = ""
+entityCollection = ""
+dataEntityCollection = ""
+monitoringCollection = ""
+performanceCollection = ""

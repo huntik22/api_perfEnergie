@@ -1,0 +1,32 @@
+#status 405 METHOD NOT ALLOW
+#status 401 NOT ALLOW
+#status 404 NOT FOUND
+#status 200 SUCCESS
+#status 400 BAD RESQUET
+
+Le code 500 Erreur Server
+Le code 503 service indisponible
+
+#user/login ok
+#user/create ok
+#user/logout ok
+#user/list ok
+
+#indicateur/list
+#indicateur/create
+#indicateur/read
+#idnicateur/update
+#indicateur/delete
+
+#entityData/name/list
+#entityData/name/read
+#entityData/name/update
+
+#entity/list
+#entity/name/cread
+#entity/name/read
+#entity/name/update
+
+#entityPerforms/list
+#entityPerforms/name/read
+#entityPerforms/name/update
